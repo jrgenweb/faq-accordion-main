@@ -38,6 +38,7 @@ body {
     background: url("../images/background-pattern-desktop.svg");
     background-repeat: no-repeat;
     background-size: contain;
+    background-color: hsl(275, 100%, 97%);
     font-size: 16px;
   }
 }
