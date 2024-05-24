@@ -7,8 +7,8 @@ faqItem.forEach((item) => {
 function handleClick(e) {
   e.preventDefault();
   let img;
-  const iconMinus = "../assets/images/icon-minus.svg";
-  const iconPlus = "../assets/images/icon-plus.svg";
+  const iconMinus = "assets/images/icon-minus.svg";
+  const iconPlus = "assets/images/icon-plus.svg";
   let imgPath;
   if (e.target.parentNode.classList.contains("faq__item")) {
     e.target.parentNode.classList.toggle("active");
