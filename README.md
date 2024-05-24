@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![https://jrgenweb.github.io/screenshot.webp](https://jrgenweb.github.io/screenshot.webp)
+![https://raw.githubusercontent.com/jrgenweb/faq-accordion-main/master/public/screenshot.webp](https://raw.githubusercontent.com/jrgenweb/faq-accordion-main/master/public/screenshot.webp)
 
 ### Links
 
